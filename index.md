@@ -8,5 +8,6 @@ Users can also view all their own and all liked Zources on one my page.
 
 ## Tech Stack:
   JavaScript, EJS, Node, PostgreSQL, SCSS
-
-  !["Run Through"](/resource_wall/docs/reZourceFL.mov)
+<div class="iframe-container">
+<iframe width="1154" height="658" src="https://www.youtube.com/embed/-ElPKjupQv8" &autoplay=1 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
