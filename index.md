@@ -9,4 +9,5 @@ Users can also view all their own and all liked Zources on one my page.
 ## Tech Stack:
   JavaScript, EJS, Node, PostgreSQL, SCSS
 
-  !["Run Through"](/resource_wall/docs/reZourceFL.mov)
+https://user-images.githubusercontent.com/72511857/150457137-77266792-08b9-4ae8-ba60-96039f935126.mov
+
