@@ -10,3 +10,5 @@ Users can also view all their own and all liked Zources on one my page.
   JavaScript, EJS, Node, PostgreSQL, SCSS
 
 ![reZourceFL_default](https://user-images.githubusercontent.com/72511857/150480241-3382dd87-3eca-452b-a6c5-f7970255a89d.gif)
+![reZourceFL_my_zources](https://user-images.githubusercontent.com/72511857/150481457-d0ed22ca-7dc2-4036-9568-f10454573c27.gif)
+![reZourceFL_create_zource](https://user-images.githubusercontent.com/72511857/150481498-54634db0-c846-4a61-a897-9e98f8eccd33.gif)
