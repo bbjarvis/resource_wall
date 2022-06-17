@@ -1,4 +1,5 @@
-# Pinterest for learners!
+# ReZourceFL
+## Pinterest for learners!
 
 Allow learners to save learning resources (called a "Zource") like tutorials, blogs and videos in a central place that is publicly available to any user.
 
